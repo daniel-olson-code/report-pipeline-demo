@@ -1,0 +1,9 @@
+pyspark
+kafka-python
+streamlit
+pandas
+
+fastapi
+apache-airflow
+pyyaml
+requests

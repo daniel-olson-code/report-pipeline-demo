@@ -1,0 +1,13 @@
+api_url: "http://localhost:8000"
+
+region:
+  - NA
+  - EU
+  - FE
+
+reports:
+  - "Ad Campaigns"
+  - "Ad Groups"
+  - "Product Ads"
+  - "Keywords"
+  - "Product Targets"
