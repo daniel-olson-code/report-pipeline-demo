@@ -2,8 +2,11 @@ pyspark
 kafka-python
 streamlit
 pandas
+google-cloud-bigquery
+
 
 fastapi
 apache-airflow
 pyyaml
 requests
+asyncio-pool
