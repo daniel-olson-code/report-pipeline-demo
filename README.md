@@ -1,6 +1,11 @@
 # report-pipeline-demo
 
-This project is designed to showcase my abilities in utilizing key data engineering tools such as Kafka, Airflow, and PySpark. It demonstrates a comprehensive data pipeline that integrates these technologies to process and analyze data effectively.
+This project is designed to showcase my abilities in 
+utilizing key data engineering tools such as 
+Kafka, Airflow, and PySpark. 
+It demonstrates a data pipeline that 
+integrates these technologies to process 
+and analyze data effectively.
 
 ## Overview
 
